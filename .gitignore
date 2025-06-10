@@ -1,0 +1,16 @@
+# Автоматически сгенерированные файлы Prepros
+dist/
+prepros.config
+.sass-cache/
+
+# Временные файлы и системные
+.DS_Store
+.thumbs
+*.log
+
+# node_modules (если используете npm)
+node_modules/
+
+# Файлы для разработки (если есть)
+*.local
+.env
